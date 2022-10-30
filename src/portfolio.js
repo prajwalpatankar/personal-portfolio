@@ -24,7 +24,7 @@ const greeting = {
   nickname: "pro_jwal",
   subTitle:
     "Creating an impact by solving real world problems with end to end products.",
-  resumeLink: "https://drive.google.com/file/d/1y70LFXi94o_5T0f4aMnjmFuJzwlLKB1N/view?usp=sharing",
+  resumeLink: "https://drive.google.com/file/d/1ffckulGD4cEhnXMMnILnvR43rO94dJtm/view?usp=sharing",
   // portfolio_repository: "https://github.com/prajwalpatankar/masterPortfolio",
   githubProfile: "https://github.com/prajwalpatankar/",
 };
