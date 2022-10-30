@@ -717,7 +717,7 @@ const publications = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "profile-removebg-preview.png",
+    profile_image_path: "pp.png",
     description:
       "Open to work as a Software Development Engineer Intern for the summer of 2023. You can get in touch with me on my email :)",
   },

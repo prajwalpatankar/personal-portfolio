@@ -1,55 +1,55 @@
 {
     "data": [
         {
-            "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-            "name": "masterPortfolio",
-            "createdAt": "2020-03-06T16:26:54Z",
+            "id": "1",
+            "name": "AllerTgy",
+            "createdAt": "2020-12-20T16:26:54Z",
             "url": "https://github.com/prajwalpatankar/",
-            "description": "aaaaaaaaa",
+            "description": "AllerTgy is a Deep Learning Application identifying ingredients present in food items and warns allergic patients.",
             "isFork": false,
             "languages": [
                 {
-                    "name": "HTML",
-                    "iconifyClass": "logos-html-5"
+                    "name": "React",
+                    "iconifyClass": "logos-react"
                 },
                 {
-                    "name": "CSS",
-                    "iconifyClass": "logos-css-3"
+                    "name": "Django",
+                    "iconifyClass": "logos-django"
                 },
                 {
-                    "name": "JavaScript",
-                    "iconifyClass": "logos-javascript"
+                    "name": "Flutter",
+                    "iconifyClass": "logos-flutter"
                 }
             ]
         },
         {
-            "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-            "name": "masterPortfolio",
-            "createdAt": "2020-03-06T16:26:54Z",
+            "id": "2",
+            "name": "Construction Management Information System",
+            "createdAt": "2021-05-01T16:26:54Z",
             "url": "https://github.com/prajwalpatankar/",
-            "description": "aaaaaaaaa",
+            "description": "A full stack web application with role based access helping construction companies manage inventory.",
             "isFork": false,
             "languages": [
                 {
-                    "name": "HTML",
-                    "iconifyClass": "logos-html-5"
+                    "name": "React",
+                    "iconifyClass": "logos-react"
                 },
                 {
-                    "name": "CSS",
-                    "iconifyClass": "logos-css-3"
+                    "name": "Django",
+                    "iconifyClass": "logos-django"
                 },
                 {
-                    "name": "JavaScript",
-                    "iconifyClass": "logos-javascript"
+                    "name": "Postgres",
+                    "iconifyClass": "logos-postgresql"
                 }
             ]
         },
         {
-            "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-            "name": "masterPortfolio",
-            "createdAt": "2020-03-06T16:26:54Z",
+            "id": "3",
+            "name": "Data Structure Visualiser",
+            "createdAt": "2019-10-31T16:26:54Z",
             "url": "https://github.com/prajwalpatankar/",
-            "description": "aaaaaaaaa",
+            "description": "An aid for teachers and students to understand and visualise data structures using animations.",
             "isFork": false,
             "languages": [
                 {
@@ -61,74 +61,50 @@
                     "iconifyClass": "logos-css-3"
                 },
                 {
-                    "name": "JavaScript",
-                    "iconifyClass": "logos-javascript"
+                    "name": "React",
+                    "iconifyClass": "logos-react"
                 }
             ]
         },
         {
-            "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-            "name": "masterPortfolio",
-            "createdAt": "2020-03-06T16:26:54Z",
+            "id": "4",
+            "name": "Violence Detector",
+            "createdAt": "2020-07-10T16:26:54Z",
             "url": "https://github.com/prajwalpatankar/",
-            "description": "aaaaaaaaa",
+            "description": "A Real-Time Deep Learning application to detect any suspicious/violent activity based on CCTV footage.",
             "isFork": false,
             "languages": [
                 {
-                    "name": "HTML",
-                    "iconifyClass": "logos-html-5"
-                },
-                {
-                    "name": "CSS",
-                    "iconifyClass": "logos-css-3"
-                },
-                {
-                    "name": "JavaScript",
-                    "iconifyClass": "logos-javascript"
+                    "name": "Deep Learning",
+                    "iconifyClass": "carbon:network-2"
                 }
             ]
         },
         {
-            "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-            "name": "masterPortfolio",
-            "createdAt": "2020-03-06T16:26:54Z",
+            "id": "5",
+            "name": "Brain Haemmorhage Detection and Segmentation",
+            "createdAt": "2022-05-01T11:53:55Z",
             "url": "https://github.com/prajwalpatankar/",
-            "description": "",
+            "description": "Deep learning model to detect acute intracranial haemorrhage and its subtypes, and segment site of haemorrhage.",
             "isFork": false,
             "languages": [
                 {
-                    "name": "HTML",
-                    "iconifyClass": "logos-html-5"
-                },
-                {
-                    "name": "CSS",
-                    "iconifyClass": "logos-css-3"
-                },
-                {
-                    "name": "JavaScript",
-                    "iconifyClass": "logos-javascript"
+                    "name": "Deep Learning",
+                    "iconifyClass": "carbon:network-2"
                 }
             ]
         },
         {
-            "id": "MDEwOlJlcG9zaXRvcnkyNjkwNzUwMjM=",
-            "name": "truvisory",
-            "createdAt": "2020-06-03T11:53:55Z",
+            "id": "6",
+            "name": "Lung Cancer Detector",
+            "createdAt": "2020-06-01T16:26:54Z",
             "url": "https://github.com/prajwalpatankar/",
-            "description": "FFFFFFFFFFFFFF",
+            "description": "Deep learning model to detect Lung Cancer and its subtypes, and segment site of the cancer.",
             "isFork": false,
             "languages": [
                 {
-                    "name": "HTML",
-                    "iconifyClass": "logos-html-5"
-                },
-                {
-                    "name": "CSS",
-                    "iconifyClass": "logos-css-3"
-                },
-                {
-                    "name": "JavaScript",
-                    "iconifyClass": "logos-javascript"
+                    "name": "Pytorch",
+                    "iconifyClass": "logos-pytorch"
                 }
             ]
         }
