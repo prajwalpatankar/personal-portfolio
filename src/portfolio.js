@@ -166,13 +166,13 @@ const skills = {
             color: "#f05133",
           },
         },
-        {
-          skillName: "Gatsby",
-          fontAwesomeClassname: "simple-icons:gatsby",
-          style: {
-            color: "#663399",
-          },
-        },
+        // {
+        //   skillName: "Gatsby",
+        //   fontAwesomeClassname: "simple-icons:gatsby",
+        //   style: {
+        //     color: "#663399",
+        //   },
+        // },
         {
           skillName: "Flutter",
           fontAwesomeClassname: "simple-icons:flutter",
@@ -349,9 +349,8 @@ const degrees = {
       alt_name: "USC",
       duration: "2022-Present",
       descriptions: [
-        "⚛️ Currently enrolled for CSCI 570: Analysis of Algorithms, CSCI 571: Web Technologies.",
         "⚛️ Graduating in May 2024",
-        "⚛️ Available to work from April 2023",
+        "⚛️ Courses Taken : CSCI 544: Applied Natural Language Processing ,CSCI 570: Analysis of Algorithms, CSCI 571: Web Technologies, CSCI 585: Database Systems",
       ],
       website_link: "http://pict.edu",
     },
@@ -362,8 +361,8 @@ const degrees = {
       alt_name: "PICT Pune",
       duration: "2018-2022",
       descriptions: [
-        "⚛️ CGPA : 9.78 / 10",
-        "⚛️ Third Year Engineering topper with a GPA of 10/10.",
+        "⚛️ CGPA : 3.94 / 4",
+        "⚛️ Third Year Engineering topper with a GPA of 4/4.",
         "⚛️ Course Work : Discrete Mathematics, Engineering Mathematics, Data Structures & Algorithms, Advanced Data Structures, Problem Solving and Object Oriented Programming, Database Management Systems, Computer Networks, Operating Systems, Theory of Computation, Software Engineering & Project Management, Cloud Computing, Data Science and Big Data Analytics, Computer Organisation and Architecture, Processor Architecture and Interface",
         "⚛️ Honors Course : Data Science and Visuals, Statistics and Machine Learning ",
       ],
@@ -608,8 +607,8 @@ const experience = {
           logo_path: "1eq.jpg",
           duration: "June 2020 - July 2020",
           location: "Pune, Mahrashtra, India",
-          description: "Worked on developing eQube-DAAS : a low/no-code integration platform. Developed a stand-alone security system using Java and Spring Framework to integrate authentication systems of all the BI and MI applications provided by eQ. Collaborated on Devops pipelines involving security systems.",
-          color: "#ee3c26",
+          description: "Developed micro-services for eQube-DAAS : a low/no-code integration platform and built DevOps pipelines. Devised a stand-alone security system using Java and Spring Framework to integrate authentication systems of all the BI and MI applications provided by eQ. Implemented efficient algorithmic techniques to improve overall run-time of existing code by 17%",
+          color: "#D83B01",
         },
         {
           title: "Software Development Intern",
@@ -619,8 +618,8 @@ const experience = {
           logo_path: "rhythm.png",
           duration: "Oct 2019 - Feb 2020",
           location: "Pune, Mharashtra, India",
-          description: "Collaborated on a bank reconciliation system for various multinational banks. Designed database schemas and workflows for transactions. Implemented backend in Python connecting AngularJS forms through REST APIs.",
-          color: "#0071C5",
+          description: "Collaborated on a database-driven bank reconciliation system for multinational banks. Designed PostgreSQL database schemas and workflows for transactions. Created powerful REST APIs using Django-Rest Framework serving responsive frontend developed with Angular.",
+          color: "#D83B01",
         },
       ],
     },
@@ -635,7 +634,7 @@ const experience = {
           duration: "June 2019 - June 2022",
           location: "Pune, Maharashtra, India",
           description: "Pictoreal is a group of high-spirited and effervescent individuals and is one of the most sought-after non-technical clubs at Pune Institute of Computer Technology (PICT), which organises events for social causes like Blood Donation Camps, Donation Drives, Educating the poor, Career Advisory session for school kids, etc. It publishes vibrant magazines every year, all of them portraying the remarkable contributions of its members. I was a part of the core team for Pictoreal and was responsible for proofreading and editing articles for the magzine. Being fond of photography, I decided to volunteer for all the photography and videography along with the editing done for the school.",
-          color: "#4285F4",
+          color: "#D83B01",
         },
         {
           title: "Photography Team Head and Core Team Member",
@@ -645,6 +644,16 @@ const experience = {
           duration: "Aug 2019 - July 2021",
           location: "Pune, Maharashtra, India",
           description: "PICT IEEE Students Branch is an organisation awarded as Best Student Chapter among all IEEE chapters across Pune, with an aim of inculcating a sense of technical awareness amongst its student members. PISB aims to escalate the knowledge of developments and trends in the diverse field of technology by holding two major events every year- Credenz and Credenz Tech Dayz alongside several seminars, workshops, hackathons. I was a core team member managin the organisation as a whole as well as managing sub-events under Credenz. I was also the head of the event 'Network Tresure Hunt' which was an online treasure hunt played by over 2000 players every year.",
+          color: "#D83B01",
+        },
+        {
+          title: "Volunteer",
+          company: "USC Student Basic Needs",
+          company_url: "https://studentbasicneeds.usc.edu/",
+          logo_path: "USC_thumbnail.png",
+          duration: "Jan 2023 - Present",
+          location: "Los Angeles, California",
+          description: "USC Student Basic Needs is an organization whose vision is to ensure student well-being through food, housing, and economic justice. Student Basic Needs offers food support through supplemental assistance including the Trojan Food Pantry. Our goal is to guarantee that every student is food secure, meaning students have access to nutritious options without limitations.",
           color: "#D83B01",
         },
       ],
@@ -657,28 +666,28 @@ const experience = {
           company: "",
           logo_path: "camera.png",
           description: "I'm always carrying a camera around. Even as a hobby, photography has the power to lift people's spirits and help them look at things from a different perspective.",
-          color: "#4285F4",
+          color: "#D83B01",
         },
         {
           title: "Riding Bikes",
           company: "",
           logo_path: "motorcycle.png",
-          description: "Always been a motorhead. On weekends, I love going on long motorcycle rides.We all ride for different reasons, and sometimes for all the reasons: fun, adventure, to bond with friends, to save fuel, to relax, as a moving meditation, to make the commute more interesting, to get through traffic easier, to accomplish goals. The reasons are infinite.",
-          color: "#4285F4",
+          description: "Always been a motorhead. On weekends, I love going on long motorcycle rides. We all ride for different reasons, and sometimes for all the reasons: fun, adventure, to bond with friends, to save fuel, to relax, as a moving meditation, to make the commute more interesting, to get through traffic easier, to accomplish goals. The reasons are infinite.",
+          color: "#D83B01",
         },
         {
           title: "eSports",
           company: "",
           logo_path: "csgo.png",
           description: "I enjoy playing competitive games like CS:GO and Valorant. I have participated in multiple Counter Strike tournaments. Proud to be a Global Elite (top 2%) in competitive CS:GO.",
-          color: "#4285F4",
+          color: "#D83B01",
         },
         {
           title: "Swimming",
           company: "",
           logo_path: "swimming.jpg",
           description: "I enjoy swimming as a sport. I spend atleast 6 hours a week swimming. It can provide you with a low-impact workout and it's a good way to relax and feel good.",
-          color: "#4285F4",
+          color: "#D83B01",
         },
       ]
     }
@@ -719,7 +728,7 @@ const contactPageData = {
     title: "Contact Me",
     profile_image_path: "pp.png",
     description:
-      "Open to work as a Software Development Engineer Intern for the summer of 2023. You can get in touch with me on my email :)",
+      "Open to work as a Software Engineer Intern for the summer of 2023. You can get in touch with me on my email :)",
   },
   // blogSection: {
   //   title: "Blogs",
@@ -731,7 +740,9 @@ const contactPageData = {
   addressSection: {
     title: "Email Address",
     subtitle:
-      "patankarprajwal@gmail.com",
+      "ppatanka@usc.edu ",
+    email2:
+    "patankarprajwal@gmail.com",
     avatar_image_path: "address_image.svg",
     location_map_link: "https://goo.gl/maps/MpMqtRZytFchMkZ76",
   },

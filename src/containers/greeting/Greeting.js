@@ -34,9 +34,9 @@ export default function Greeting(props) {
                   href={"/#/contact/"}
                   theme={theme}
                   className="portfolio-repo-btn"
-                />
+                />&nbsp;&nbsp;&nbsp;
                 <Button
-                  text="📜 View my Resume"
+                  text="📜 See my Resume"
                   newTab={true}
                   href={greeting.resumeLink}
                   theme={theme}
