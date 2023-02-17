@@ -23,7 +23,7 @@ const greeting = {
   logo_name: "Prajwal Patankar",
   nickname: "pro_jwal",
   subTitle:
-    "Problems are just opportunities in disguise, and I love nothing more than putting on a disguise and saving the day",
+    "Give me a problem and I'll tell you 3 different ways to solve it :) I specialize in creative misuse of current technologies and the invention of new ones.",
   resumeLink: "https://drive.google.com/file/d/1D-RZ9PCI1XFzdQZx7TZOoSWN2LcRJPLT/view?usp=sharing",
   // portfolio_repository: "https://github.com/prajwalpatankar/masterPortfolio",
   githubProfile: "https://github.com/prajwalpatankar/",
