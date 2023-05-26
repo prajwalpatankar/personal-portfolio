@@ -4,7 +4,7 @@
             "id": "1",
             "name": "AllerTgy",
             "createdAt": "2020-12-20T16:26:54Z",
-            "url": "https://github.com/prajwalpatankar/",
+            "url": "https://github.com/prajwalpatankar/allertgy",
             "description": "AllerTgy is a Deep Learning Application identifying ingredients present in food items and warns allergic patients.",
             "isFork": false,
             "languages": [
@@ -26,7 +26,7 @@
             "id": "2",
             "name": "Construction Management Information System",
             "createdAt": "2021-05-01T16:26:54Z",
-            "url": "https://github.com/prajwalpatankar/",
+            "url": "https://github.com/prajwalpatankar/pctppl-mis",
             "description": "A full stack web application with role based access helping construction companies manage inventory.",
             "isFork": false,
             "languages": [
@@ -70,7 +70,7 @@
             "id": "4",
             "name": "Violence Detector",
             "createdAt": "2020-07-10T16:26:54Z",
-            "url": "https://github.com/prajwalpatankar/",
+            "url": "https://github.com/prajwalpatankar/Violence-detector",
             "description": "A Real-Time Deep Learning application to detect any suspicious/violent activity based on CCTV footage.",
             "isFork": false,
             "languages": [
