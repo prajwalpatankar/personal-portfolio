@@ -104,7 +104,8 @@ class Contact extends Component {
                   className="contact-header-detail-text subTitle"
                   style={{ color: theme.secondaryText }}
                 >
-                  {addressSection["subtitle"]}
+                  {addressSection["subtitle"]}<br />
+                  {addressSection["email2"]}
                 </p>
                 <h1
                   className="address-heading-text"
