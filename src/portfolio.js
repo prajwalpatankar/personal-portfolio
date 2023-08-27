@@ -24,7 +24,7 @@ const greeting = {
   nickname: "pro_jwal",
   subTitle:
     "Give me a problem and I'll tell you 3 different ways to solve it :) I specialize in creative misuse of current technologies and the invention of new ones.",
-  resumeLink: "https://drive.google.com/file/d/14Dz6WAbf5bRzwcfWJfRDUgEBhCdc58-4/view?usp=drive_link",
+  resumeLink: "https://drive.google.com/file/d/1MPR1NQZyVF7aXJk4wT6QJcUTgU6Ffzsw/view?usp=sharing",
   // portfolio_repository: "https://github.com/prajwalpatankar/masterPortfolio",
   githubProfile: "https://github.com/prajwalpatankar/",
 };
@@ -350,9 +350,9 @@ const degrees = {
       duration: "2022-Present",
       descriptions: [
         "⚛️ Graduating in May 2024",
-        "⚛️ Courses Taken : CSCI 544: Applied Natural Language Processing ,CSCI 570: Analysis of Algorithms, CSCI 571: Web Technologies, CSCI 585: Database Systems",
+        "⚛️ Courses Taken : CSCI 544: Applied Natural Language Processing ,CSCI 570: Analysis of Algorithms, CSCI 571: Web Technologies, CSCI 585: Database Systems CSCI 513: Autonomous Cyber Physical Systems, CSCI 530: Security Systems",
       ],
-      website_link: "http://pict.edu",
+      website_link: "https://www.usc.edu/",
     },
     {
       title: "Pune Institute of Computer Technology",
