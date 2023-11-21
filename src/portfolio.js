@@ -92,7 +92,7 @@ const skills = {
         "⚛️ Building stable and responsive website front end using React-Redux and AngularJS",
         "⚛️ Designing extensible and easy to use APIs using Django-Rest Framework",
         "⚛️ Creating scalable and fast application backends in Django, Flask, Node and Express",
-        "⚛️ Developing mobile applications using Android, Flutter and React Native",
+        "⚛️ Developing mobile applications using Swift, Android, Flutter and React Native",
       ],
       softwareSkills: [
         {
