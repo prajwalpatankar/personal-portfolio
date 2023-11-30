@@ -24,7 +24,7 @@ const greeting = {
   nickname: "pro_jwal",
   subTitle:
     "Give me a problem and I'll tell you 3 different ways to solve it :) I specialize in creative misuse of current technologies and the invention of new ones.",
-  resumeLink: "https://drive.google.com/file/d/17Ndd9f9ybZxilqkQo-7hJ8dEeI2R8T1N/view?usp=sharing",
+  resumeLink: "https://drive.google.com/file/d/1UgTzCIrgR4IbsnbMwlhJjomKuKbF9e6d/view?usp=sharing",
   // portfolio_repository: "https://github.com/prajwalpatankar/masterPortfolio",
   githubProfile: "https://github.com/prajwalpatankar/",
 };
