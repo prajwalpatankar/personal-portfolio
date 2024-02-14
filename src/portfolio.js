@@ -188,7 +188,6 @@ const skills = {
       skills: [
         "⚛️ Developing highly scalable production ready models for various deeplearning and statistical use cases",
         "⚛️ Experience of working with Computer Vision and NLP projects",
-        "⚛️ Complex quantitative modelling for dynamic forecasting and time series analysis",
       ],
       softwareSkills: [
         {
@@ -229,8 +228,8 @@ const skills = {
       skills: [
         "⚛️ Experience working on multiple cloud platforms",
         "⚛️ Hosting and maintaining websites on virtual machine instances along with integration of databases",
-        "⚛️ Deploying deep learning models on cloud to use on mobile devices",
-        "⚛️ Setting up streaming jobs from DB to Server or vice-versa on GCP and AWS",
+        "⚛️ Deploying deep learning models on cloud",
+        "⚛️ Developing CI/CD Pipelines for automated code build, test, and deploy processes",
       ],
       softwareSkills: [
         {
@@ -350,7 +349,7 @@ const degrees = {
       duration: "2022-Present",
       descriptions: [
         "⚛️ Graduating in May 2024",
-        "⚛️ Courses Taken : CSCI 544: Applied Natural Language Processing ,CSCI 570: Analysis of Algorithms, CSCI 571: Web Technologies, CSCI 585: Database Systems CSCI 513: Autonomous Cyber Physical Systems, CSCI 530: Security Systems",
+        "⚛️ Courses Taken : CSCI 544: Applied Natural Language Processing ,CSCI 570: Analysis of Algorithms, CSCI 571: Web Technologies, CSCI 585: Database Systems CSCI 513: Autonomous Cyber Physical Systems, CSCI 530: Security Systems, CSCI 572:Information Retrieval and Web Search Engines",
       ],
       website_link: "https://www.usc.edu/",
     },
@@ -601,23 +600,23 @@ const experience = {
       title: "Work Experience",
       experiences: [
         {
+          title: "Software Engineer",
+          company: "University of Southern California",
+          company_url: "https://www.usc.edu/",
+          logo_path: "usc_logo_2.png",
+          duration: "Jun 2023 - Present",
+          location: "Los Angeles, California, US",
+          description: "Assisting research for the USC Biomechanics Lab. Developed a a scalable cloud-based full-stack web app using React, Django, and PostgreSQL, and deployed using AWS, Docker, and NginX.",
+          color: "#D83B01",
+        },
+        {
           title: "Software Engineer Intern",
           company: "Matt Young Media",
           company_url: "https://www.mattyoungmedia.com/",
           logo_path: "mym.jpg",
           duration: "Jun 2023 - Aug 2023",
           location: "Scottsdale, Arizona, US",
-          description: "Collaborated on an AI-based project management tool saving an average of 16.9 seconds for each manual task. Optimized database queries and schema design, resulting in a 23% reduction in application response time. Designed and implemented a dynamic data visualization dashboard utilizing Chart.js and a custom-built Gantt chart.",
-          color: "#D83B01",
-        },
-        {
-          title: "Software Engineer",
-          company: "University of Southern California",
-          company_url: "https://www.usc.edu/",
-          logo_path: "usc_logo_2.png",
-          duration: "Mar 2023 - Present",
-          location: "Los Angeles, California, US",
-          description: "Assisting research for the USC Biomechanics Lab. Developed a web app using React, Django, and PostgreSQL, and deployed using AWS, Docker, and NginX.",
+          description: "Collaborated on an AI-based project management tool. • Optimized back-end performance by implementing asynchronous microservices in Node.js, and introduced caching, reducing average page load time. Designed and implemented a dynamic data visualization dashboard utilizing Chart.js and a custom-built Gantt chart.",
           color: "#D83B01",
         },
         {
@@ -627,7 +626,7 @@ const experience = {
           logo_path: "1eq.jpg",
           duration: "Jun 2020 - Jul 2020",
           location: "Pune, Mahrashtra, India",
-          description: "Developed micro-services for eQube-DAAS : a low/no-code integration platform and built DevOps pipelines. Devised a stand-alone security system using Java and Spring Framework to integrate authentication systems of all the BI and MI applications provided by eQ. Implemented efficient algorithmic techniques to improve overall run-time of existing code by 17%",
+          description: "Engineered robust micro-services for a no-code integration platform using Spring Framework and implemented CI/CD pipelines with Jenkins. Revamped the login process significantly with algorithmic optimizations",
           color: "#D83B01",
         },
         {
@@ -638,7 +637,7 @@ const experience = {
           logo_path: "rhythm.png",
           duration: "Oct 2019 - Feb 2020",
           location: "Pune, Mharashtra, India",
-          description: "Collaborated on a database-driven bank reconciliation system for multinational banks. Designed PostgreSQL database schemas and workflows for transactions. Created powerful REST APIs using Django-Rest Framework serving responsive frontend developed with Angular.",
+          description: "Collaborated on a bank reconciliation system. Engineered PostgreSQL database schemas and optimized transactions while creating high-performance REST APIs using Spring Framework integrated with an Angular frontend.",
           color: "#D83B01",
         },
       ],
@@ -716,7 +715,7 @@ const experience = {
           title: "Swimming",
           company: "",
           logo_path: "swimming.jpg",
-          description: "I enjoy swimming as a sport. I spend atleast 6 hours a week swimming. It can provide you with a low-impact workout and it's a good way to relax and feel good.",
+          description: "I enjoy swimming as a sport. I spend atleast 3 hours a week swimming. It's a good way to relax and feel good.",
           color: "#D83B01",
         },
       ]
@@ -758,7 +757,7 @@ const contactPageData = {
     title: "Contact Me",
     profile_image_path: "pp.png",
     description:
-      "Looing for full-time opportunities as a Software Engineer as well as internship opportunities for Fall'23/Spring'24. You can get in touch with me on my email :)",
+      "Looking for full-time opportunities as a Software Engineer starting May'24. You can get in touch with me on my email :)",
   },
   // blogSection: {
   //   title: "Blogs",
